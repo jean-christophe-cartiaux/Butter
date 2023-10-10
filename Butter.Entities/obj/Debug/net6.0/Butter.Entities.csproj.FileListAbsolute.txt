@@ -1,0 +1,11 @@
+C:\Users\jc.cartiaux\Desktop\MVC\Butter\Butter.Entities\bin\Debug\net6.0\Butter.Entities.deps.json
+C:\Users\jc.cartiaux\Desktop\MVC\Butter\Butter.Entities\bin\Debug\net6.0\Butter.Entities.dll
+C:\Users\jc.cartiaux\Desktop\MVC\Butter\Butter.Entities\bin\Debug\net6.0\Butter.Entities.pdb
+C:\Users\jc.cartiaux\Desktop\MVC\Butter\Butter.Entities\obj\Debug\net6.0\Butter.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jc.cartiaux\Desktop\MVC\Butter\Butter.Entities\obj\Debug\net6.0\Butter.Entities.AssemblyInfoInputs.cache
+C:\Users\jc.cartiaux\Desktop\MVC\Butter\Butter.Entities\obj\Debug\net6.0\Butter.Entities.AssemblyInfo.cs
+C:\Users\jc.cartiaux\Desktop\MVC\Butter\Butter.Entities\obj\Debug\net6.0\Butter.Entities.csproj.CoreCompileInputs.cache
+C:\Users\jc.cartiaux\Desktop\MVC\Butter\Butter.Entities\obj\Debug\net6.0\Butter.Entities.dll
+C:\Users\jc.cartiaux\Desktop\MVC\Butter\Butter.Entities\obj\Debug\net6.0\refint\Butter.Entities.dll
+C:\Users\jc.cartiaux\Desktop\MVC\Butter\Butter.Entities\obj\Debug\net6.0\Butter.Entities.pdb
+C:\Users\jc.cartiaux\Desktop\MVC\Butter\Butter.Entities\obj\Debug\net6.0\ref\Butter.Entities.dll

@@ -1,0 +1,5 @@
+C:\Users\jc.cartiaux\Desktop\MVC\Butter\Butter_DataAcces\obj\Debug\net6.0\Butter.DataAcces.csproj.AssemblyReference.cache
+C:\Users\jc.cartiaux\Desktop\MVC\Butter\Butter_DataAcces\obj\Debug\net6.0\Butter.DataAcces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jc.cartiaux\Desktop\MVC\Butter\Butter_DataAcces\obj\Debug\net6.0\Butter.DataAcces.AssemblyInfoInputs.cache
+C:\Users\jc.cartiaux\Desktop\MVC\Butter\Butter_DataAcces\obj\Debug\net6.0\Butter.DataAcces.AssemblyInfo.cs
+C:\Users\jc.cartiaux\Desktop\MVC\Butter\Butter_DataAcces\obj\Debug\net6.0\Butter.DataAcces.csproj.CoreCompileInputs.cache
